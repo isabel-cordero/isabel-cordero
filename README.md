@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isabel-cordero
+- 👋 Hi, I’m Isabel (@sicordero)
 - 👀 I’m interested in data visualization of 3-D datasets
 - 🌱 I’m currently learning python, pangeo, and how to work with Unity.
 - 💞️ I’m looking to collaborate on ...
